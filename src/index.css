@@ -22,6 +22,27 @@ a {
 a:hover {
   color: #535bf2;
 }
+td.cla {
+  display: flex;
+}
+.gender2 {
+  display: flex;
+}
+
+.formdata {
+  width: 50vw;
+  padding: 50px;
+border: 1px solid #ccc;
+background-color: #fff;
+box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+button.add {
+  margin-left: 42%;
+  margin-top: 3%;
+  padding: 3% 7% 3% 7%;
+  background-color: blueviolet;
+}
 
 body {
   margin: 0;
@@ -98,4 +119,5 @@ tr:nth-child(even) {
 }
   body {
     background-color: #213547;
-  };
+  }
+  

@@ -8,8 +8,8 @@
     
   }
   body {
-    background-color: yellow;
-    }
+    background-color: bisque;
+}
   
   form {
     width: 80vw; 
@@ -41,7 +41,7 @@
   input[type="password"],
   select,
   textarea {
-    width: 50%;
+    width: 90%;
     padding: 15px;
     border: 1px solid #ccc;
     border-radius: 5px;
@@ -59,10 +59,10 @@
     border-radius: 5px;
     cursor: pointer;
     font-size: 18px;
-    padding: 15px 24% 15px 23%;
+    padding: 15px 47% 15px 36%;
   }
   select {
-    width: 54%;
+    width: 100%;
   }
 
 
@@ -80,7 +80,7 @@ a {
     text-decoration: none;
     color: #007bff;
     font-size: 18px;
-    padding: 0 0 0 168%;
+    padding: 0 0 0 177%;
     width: 100%;
 }
   .all-form {
